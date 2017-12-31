@@ -1,0 +1,16 @@
+.title {
+	margin-bottom: 1.5em;
+}
+
+#movies img, #movie img {
+	width: 100%;
+}
+
+@media (min-width: 960px) {
+	#movies .col-md-3 .well {
+		height: 30em;
+	}
+	#movies .col-md-3 img {
+		height: 20em;
+	}
+}
