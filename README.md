@@ -1,1 +1,1 @@
-# Collections-of-Single-Page-App
+# Individual SPAs works
